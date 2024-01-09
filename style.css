@@ -127,3 +127,59 @@ p {
     
 
 }
+
+.block{
+
+    display: grid;
+    margin-top: 100px;
+    text-align: left;
+    margin-right: 10px;
+    padding-left: 100px;
+    color: #ff0000;
+    font-family: Inter;
+    font-size: 20px;
+    line-height: normal;
+
+}
+.black{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+margin-top: 0;
+}
+
+.margin{
+
+color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+
+}
+
+/* image style */
+
+.clone{
+
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+.row{
+
+    content: "";
+    clear: both;
+    display: table;
+}
+.grid{
+
+    margin-top: 100px;
+    
+}
