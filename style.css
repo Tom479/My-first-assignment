@@ -183,3 +183,135 @@ line-height: 32px;
     margin-top: 100px;
     
 }
+
+.last{
+
+    background-color: rgba(255, 0, 0, 0.05);
+
+    ;
+    
+}
+
+.it{
+
+    width: 150px;
+    height: 150px;
+    margin-left: 625px;
+    margin-top: 100px;
+    
+    
+
+}
+.Subscribe{
+    text-align: center;
+    margin-left: 100px;
+    color: #070211;
+    font-size: 48px;
+}
+.grid{
+    margin-bottom: 100px;
+}
+
+.lastline{
+
+margin-left: 120px;
+color: rgba(7, 2, 17, 0.60);
+margin-left: 60px;
+
+
+}
+
+.email{
+
+    margin-left: 500px;
+    padding: 18px 25px;
+    border-radius: 12px;
+    border: none;
+
+}
+.not{
+
+    padding: 18px 25px;
+    border-radius: 100px;
+    border: none;
+    margin-right: 100px;
+    background-color: red;
+    margin-bottom: 100px;
+
+
+}
+.footer{
+
+    background-color: #070211;
+}
+
+
+body{
+    margin: 0 auto;
+    
+    
+}
+footer{
+    background-color: #070211;
+    color: white;
+    padding-left: 10%;
+    padding-right: 10%;
+    overflow: hidden;
+    font-size: 15px;
+}
+.top_footer{
+    margin: 2%;
+    position: relative;
+    display: flow-root;
+}
+.top_footer_right{
+    margin: 0 auto;
+    float: right;
+    padding-right: 10%;
+}
+.top_footer_right a{
+    margin: 0 auto;
+}
+.top_footer_left{
+    text-align: left;
+    width: 50%;
+    float: left;
+    font-size: 10px !important;
+}
+.contac{
+    text-align: left;
+}
+.contac ul{
+    list-style: none;
+}
+.contac li{
+
+}
+.contac li img{
+    padding-right: 10px;
+    width: 13px;
+    width: 15px;
+}
+.contac li a {
+    color: white;
+    text-decoration: none;
+}
+#footer_hr{
+    color: white;
+    text-align: center;
+}
+.middle_footer{
+    text-align: center;
+}
+.social img{
+    padding: 1%;
+    width: 4%;
+    position: relative;
+}
+.bottom_footer_right{
+    float: right;
+    
+}
+.bottom_footer-left{
+    float: left;
+}
